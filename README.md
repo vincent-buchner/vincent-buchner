@@ -18,11 +18,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vincent-buchner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-buchner&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vincent-buchner&theme=tokyonight" />
 </p>
 
