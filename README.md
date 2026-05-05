@@ -5,9 +5,6 @@
   <a href="https://linkedin.com/in/vincent-buchner" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-vincent--buchner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/c/@bytesguideyt" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-@bytesguideyt-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
   <a href="https://bytes-guide.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Project-Bytes%20Guide-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
